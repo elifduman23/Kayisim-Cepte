@@ -1,4 +1,5 @@
 Kayısım Cepte 🍑📱
+
 Kayısım Cepte, geleneksel tarım yönetimini dijitalleştiren, üreticilerin bahçe, hasat, satış ve işçilik süreçlerini tek bir merkezden yönetmelerini sağlayan kapsamlı bir Tarım Teknolojileri (AgriTech) çözümüdür.
 
 🚀 GOOGLE PLAY STORE'DA! 📱
