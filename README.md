@@ -1,7 +1,7 @@
 Kayısım Cepte 🍑📱
 Kayısım Cepte, geleneksel tarım yönetimini dijitalleştiren, üreticilerin bahçe, hasat, satış ve işçilik süreçlerini tek bir merkezden yönetmelerini sağlayan kapsamlı bir Tarım Teknolojileri (AgriTech) çözümüdür.
 
-🚀 ÇOK YAKINDA GOOGLE PLAY STORE'DA! 📱
+🚀 GOOGLE PLAY STORE'DA! 📱
 🍎 Sadece Kayısı Değil, Tüm Meyve Üreticileri İçin!
 Uygulama, ismini kayısıdan alsa da esnek altyapısı sayesinde; Elma, Kiraz, Vişne, Şeftali, Erik, Armut, Zeytin, Ceviz, Badem ve Narenciye gibi birçok meyve türü için özelleştirilmiş varyeteler ve zirai takip sistemleri sunar.
 
